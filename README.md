@@ -3,11 +3,9 @@
 This repository contains a curated list of **RSS feeds** for topics including:
 
 - Cybersecurity & threat intelligence
-- Cloud security (Microsoft Azure, Google Cloud Platform)
+- Cloud security (Microsoft Azure, Google Cloud Platform, OCI, Private.)
 - DevSecOps
 - Kubernetes, containers, and Docker security
-- Identity & Access Management (IAM)
-- Endpoint Detection & Response (EDR)
 
 The feed list is stored in a `feeds.txt` file and is formatted for use with the [`ssddanbrown/rss`](https://github.com/ssddanbrown/rss) self-hosted RSS aggregator.
 
@@ -52,8 +50,6 @@ Rather than manually visiting dozens of blogs, bulletins, and vendor update site
 - Security advisories
 - Cloud platform updates
 - Threat intel
-- Container/Kubernetes security news
-- IAM & EDR developments
 
 ---
 
