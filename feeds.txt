@@ -1,6 +1,6 @@
 # General cybersecurity feeds
 https://krebsonsecurity.com/feed/ Krebs_on_Security #security #cyber
-https://www.schneier.com/blog/atom/ Schneier_on_Security #security #analysis
+https://www.schneier.com/feed/atom/ Schneier_on_Security #security #analysis
 https://isc.sans.edu/rssfeed.xml SANS_ISC #threatintel #cybersecurity
 https://www.theregister.com/security/headlines.atom The_Register #security
 https://podcast.darknetdiaries.com/ Dark_Net_Diaries #security
