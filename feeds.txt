@@ -1,0 +1,23 @@
+# General cybersecurity feeds
+https://krebsonsecurity.com/feed/ Krebs_on_Security #security #cyber
+https://www.schneier.com/blog/atom/ Schneier_on_Security #security #analysis
+https://isc.sans.edu/rssfeed.xml SANS_ISC #threatintel #cybersecurity
+
+# Azure Cloud Security
+https://msrc-blog.microsoft.com/rss/ MSRC_Blog #azure #security
+
+# Google Cloud Security
+https://cloud.google.com/blog/feed.atom Google_Cloud_Blog #gcp #security
+
+# DevSecOps & Cloud-Native (Kubernetes, Containers)
+https://kubernetes.io/blog/feed.xml Kubernetes_Blog #kubernetes #devsecops
+https://thenewstack.io/feed/ The_New_Stack #devops #cloudnative
+https://www.aquasec.com/feed/ Aqua_Security #containers #container_security
+
+# Azure/GCP Kubernetes
+https://cloud.google.com/blog/topics/kubernetes/rss GKE_Security #gcp #kubernetes #security
+
+# IAM & EDR (if specific feeds are available)
+# (Substitute these placeholders with real RSS URLs as needed)
+# https://example.com/iam/feed IAM_Updates #IAM
+# https://example.com/edr/feed EDR_Insights #EDR
