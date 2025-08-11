@@ -16,8 +16,3 @@ https://www.aquasec.com/feed/ Aqua_Security #containers #container_security
 
 # Azure/GCP Kubernetes
 https://cloud.google.com/blog/topics/kubernetes/rss GKE_Security #gcp #kubernetes #security
-
-# IAM & EDR (if specific feeds are available)
-# (Substitute these placeholders with real RSS URLs as needed)
-# https://example.com/iam/feed IAM_Updates #IAM
-# https://example.com/edr/feed EDR_Insights #EDR
