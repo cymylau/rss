@@ -2,6 +2,12 @@
 https://krebsonsecurity.com/feed/ Krebs_on_Security #security #cyber
 https://www.schneier.com/blog/atom/ Schneier_on_Security #security #analysis
 https://isc.sans.edu/rssfeed.xml SANS_ISC #threatintel #cybersecurity
+https://www.theregister.com/security/headlines.atom The_Register #security
+https://podcast.darknetdiaries.com/ Dark_Net_Diaries #security
+https://grahamcluley.com/feed/ Graham_Cluley #security
+https://isc.sans.edu/rssfeed_full.xml SANS #security
+https://www.schneier.com/feed/atom/ Schenier_on_Security #security
+
 
 # Azure Cloud Security
 https://msrc-blog.microsoft.com/rss/ MSRC_Blog #azure #security
