@@ -10,7 +10,7 @@ https://www.schneier.com/feed/atom/ Schenier_on_Security #security
 
 
 # Azure Cloud Security
-https://msrc-blog.microsoft.com/rss/ MSRC_Blog #azure #security
+https://msrc.microsoft.com/blog/feed MSRC_Blog #azure #security
 
 # Google Cloud Security
 https://cloud.google.com/blog/feed.atom Google_Cloud_Blog #gcp #security
