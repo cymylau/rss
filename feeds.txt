@@ -7,6 +7,7 @@ https://podcast.darknetdiaries.com/ Dark_Net_Diaries #security
 https://grahamcluley.com/feed/ Graham_Cluley #security
 https://isc.sans.edu/rssfeed_full.xml SANS #security
 https://www.schneier.com/feed/atom/ Schenier_on_Security #security
+https://feeder.co/add-feed?feed_id=7dccea49f2-unit42-paloaltonetworks-com&url=https%3A%2F%2Funit42.paloaltonetworks.com%2Ffeed%2F Unit42 #security
 
 
 # Azure Cloud Security
